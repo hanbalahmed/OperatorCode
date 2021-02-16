@@ -15,3 +15,6 @@ copy these settings (have a fallback of the fallback)
   "editor.fontLigatures": true
  }
 ```
+
+# FONT DEMO
+![demo](https://lh3.googleusercontent.com/-_amQgSjAYWU/YCtV1AwvJmI/AAAAAAAAAYE/xOZDlB--qScweC1bAyDRTMHBdAHBRDQ3gCK8BGAsYHg/s512/2021-02-15.png)
