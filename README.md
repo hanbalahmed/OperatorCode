@@ -8,10 +8,10 @@ right click and you will get an `Install For All Users` option.
 click it and it will be installed.
 
 # How to Use
-copy these settings (have a fallback of the fallback)
+copy these settings (have a fallback)
 ```json
  {
-  "editor.fontFamily": "OperatorCode, 'Fira Code', Consolas",
+  "editor.fontFamily": "OperatorCode, Consolas",
   "editor.fontLigatures": true
  }
 ```
